@@ -6,7 +6,7 @@ import contactImg from "../../assets/contact.png";
 // REFCE!!!!! USe it for shortcut function
 const Navbar = () => {
   return (
-    <nav className="navbar">
+    <nav className="Navbar">
       <img src={logo} alt="logo" className="logo" />
       <div className="desktopMenu">
         <Link to="/#" className="desktopMenuListItem">
