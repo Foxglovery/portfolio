@@ -3,7 +3,7 @@ import "./Intro.css";
 import bg from "../../assets/image.png";
 import { Link } from "react-scroll";
 import btnImg from "../../assets/hireme.png";
-
+import gf from "../../assets/codeAcademyTrans.png";
 const Intro = () => {
   return (
     <section id="intro">
