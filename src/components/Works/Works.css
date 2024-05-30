@@ -12,5 +12,26 @@
 }
 
 .worksTitle {
-  margin: 1rem;
+  margin: 1rem 0;
+  font-size: 3rem;
+}
+
+.worksDesc {
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+.worksImgs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  max-width: 65rem;
+}
+
+.worksImg {
+  object-fit: cover;
+  height: 20rem;
+  margin: 0.5rem;
 }
