@@ -19,14 +19,17 @@ const Skills = () => {
           <img src={UIDesign} className="skillBarImg" alt="UIDesign" />
           <div className="skillBarText">
             <h2>UI/UX Design</h2>
-            <p>this is demo text</p>
+            <p>I am a skilled designer and have an discerning eye for detail</p>
           </div>
         </div>
         <div className="skillBar">
           <img src={WebDesign} className="skillBarImg" alt="WebDesign" />
           <div className="skillBarText">
             <h2>Web Design</h2>
-            <p>This is Demo Text</p>
+            <p>
+              I love designing websites that flow and are easy for the client to
+              use
+            </p>
           </div>
         </div>
         <div className="skillBar">
