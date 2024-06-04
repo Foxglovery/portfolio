@@ -23,6 +23,7 @@ const Works = () => {
         <img className="worksImg" src={Portfolio5} alt="" />
         <img className="worksImg" src={Portfolio6} alt="" />
       </div>
+      <button className="worksBtn">See More</button>
     </section>
   );
 };
